@@ -1,0 +1,25 @@
+{
+  "name": "compile-js",
+  "version": "1.0.0",
+  "description": "A alternative new preprocesser to NodeJs that complies to NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node . test watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0net/c-js.git"
+  },
+  "keywords": [
+    "cjs",
+    "js",
+    "s0net"
+  ],
+  "author": "steve, s0net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0net/c-js/issues"
+  },
+  "homepage": "https://github.com/s0net/c-js#readme",
+  "bin": "./index.js"
+}
