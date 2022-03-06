@@ -1,5 +1,5 @@
 # compile-js
-A new NodeJs `preprocess` to make it more easy 
+A new NodeJs `preprocess` to make it more easy and simple :)
 
 What you need to know:  
 - All C-JS file end in .jsc
@@ -7,7 +7,7 @@ What you need to know:
 
 ## Notes:
 - If you don't have `npx` installed please install it to use this tool
-- This will also watch for editings in that file in the background
+- The npx command will also watch for editings in that file in the background and `re-complie` it
 - After you run the command please edit the file so that it will start the compiler
 
 ## Guide:
@@ -85,4 +85,9 @@ ask('What is your name? ', (answer) => {
     - module  
 to import them from node with the same name
 
-**This program also minifies the file to space space on a large file**
+**This program also minifies the file using an `API `to save space on a large file**  
+<br>
+
+**This program is free and open source to all**  
+**If you find any error please report it at _https://github.com/s0net/c-js/issues_**  
+**If you have any suggestion please tell it in our disccusion option at _https://github.com/s0net/c-js/diccusion_**

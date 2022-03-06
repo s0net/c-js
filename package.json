@@ -1,6 +1,6 @@
 {
   "name": "compile-js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A alternative new preprocesser to NodeJs that complies to NodeJs",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "keywords": [
     "cjs",
+    "compile-js",
+    "nodejs",
+    "node",
     "js",
     "s0net"
   ],
